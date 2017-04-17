@@ -2,6 +2,8 @@
 
 This repo contains a curated list of links to different articles, tools avaialble for UX
 
+### Table of contents
+
 * [UX Elements](#ux-elements)
 * [Terms](#terms)
 * [Courses](#courses)
