@@ -20,14 +20,34 @@ This repo contains a curated list of links to different articles, tools avaialbl
 * Sitemap
 * Storyboard
 * Survey
-* Usability
+* Usability Test
 * Usability Engineering
 * User Centered Desing (UCD)
 * Wireframe
 * Workflow Diagram
-* 
-* 
-* 
+* Breadcrumbs
+* Engaged Time
+* Experience Architecture
+* Eyetracking
+* Heatmap
+* Key Performance Indicators (KPIs)
+* Observational Study
+* Widget
+* User Experience Design
+* 2-second rule
+* Accumulator
+* Affordance
+* Animation
+* Auto Complete
+* Banner
+* Clickability cues
+* Color depth
+* Conversion rate
+* Design Validation
+* Feature Centric
+* Fluid Layout
+* Font readability
+* Gestalt Principles
 
 ## Articles
 
@@ -37,3 +57,6 @@ This repo contains a curated list of links to different articles, tools avaialbl
 
 ### Prototyping Tools
 
+### Links
+
+* http://uxmastery.com/resources/glossary/
