@@ -40,9 +40,9 @@ Yet to be done
 
 ### Prototyping Tools
 
-|Name|Availability(Web/Mac/Windows)|
-| ---- | ---- | ---- |
-| Sketch | Mac | [link](https://www.sketchapp.com/features/) |
+| Name        | Availability (Web/Mac/Windows) | Link  |
+|:------------- | ------------- | ----- |
+| Sketch      | Mac | [link](https://www.sketchapp.com/features/) |
 
 
 ### References
