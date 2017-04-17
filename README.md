@@ -40,6 +40,11 @@ Yet to be done
 
 ### Prototyping Tools
 
+|Name|Availability(Web/Mac/Windows)|
+|----|----|----|
+|Sketch|Mac|[link](https://www.sketchapp.com/features/)|
+
+
 ### References
 
 * http://uxmastery.com/resources/glossary/
