@@ -1,10 +1,8 @@
 # All about User Experience (UX)
 
-{"headers":[{"rank":"1","link":"#","name":"All about User Experience (UX)"},{"rank":"2","link":"#","name":"UX Elements"},{"rank":"2","link":"#","name":"Terms"},{"rank":"4","link":"#","name":"Accessibility"},{"rank":"4","link":"#","name":"Adaptive Web Design (AWD)"},{"rank":"4","link":"#","name":"Hook Model"},{"rank":"4","link":"#","name":"Internationalization"},{"rank":"4","link":"#","name":"Lean UX"},{"rank":"4","link":"#","name":"Localization"},{"rank":"4","link":"#","name":"Mobile First Design"},{"rank":"4","link":"#","name":"Paper Prototype"},{"rank":"4","link":"#","name":"Responsive Design"},{"rank":"4","link":"#","name":"User Centered Design (UCD)"},{"rank":"2","link":"#","name":"Courses"},{"rank":"2","link":"#","name":"Articles"},{"rank":"2","link":"#","name":"Tools"},{"rank":"3","link":"#","name":"Prototyping Tools"},{"rank":"3","link":"#","name":"References"}]}
-
-
-
 This repo contains a curated list of links to different articles, tools avaialble for UX
+
+[UX Elements](#UX%20Elements)
 
 ## UX Elements
 
