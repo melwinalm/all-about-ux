@@ -92,19 +92,69 @@ This repo contains a curated list of links to different articles, tools avaialbl
 * Agile
 * Anchoring
 * Aesthetic-Usability Effect
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
+* Anti Pattern
+* Atomic Design
+* Brainstorming
+* Chunking
+* Color Theory
+* Call to action
+* Cognitive Bias
+* Cognitive Load
+* Content Strategy
+* Constraint
+* Cooperative Principle
+* Dark Pattern
+* Design Pattern
+* Ethnography
+* Eye Tracking
+* Fitt's Law
+* Five Hat Racks
+* Flexibility-Usability Tradeoff
+* Fogg's Behaviour Model
+* Folksonomy
+* Graceful Degradation
+* Grid
+* Heuristic Evaluation
+* Hick's Law
+* Hook Model
+* Information Architecture
+* Job Stories
+* Kairos
+* Kano Model
+* Laddering
+* Law of Triviality
+* Legibility
+* Mapping
+* Miller's Law
+* Mobile-First Design
+* Multivariate Testing
+* Native Apps
+* Web Apps
+* Hybrid Apps
+* Modular Scale
+* Minimum Viable Product
+* Ockham's Razor
+* Omni-channel UX
+* Participatory Design
+* Pattern Library
+* Pean-end rule
+* Personas
+* Persuasive Design
+* Progressive Disclosure
+* Progressive Enhancement
+* Reciprocity
+* Recognition over Recall
+* Satisficing
+* Signal to Noise Ratio
+* Skeumorphism
+* Social Proof
+* The Fold
+* Think-Aloud Protocol
+* Tunnelling
+* Visual Weight
+* Web Accessibility
+
+## Courses
 
 ## Articles
 
