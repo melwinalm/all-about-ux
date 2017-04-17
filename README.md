@@ -2,6 +2,13 @@
 
 This repo contains a curated list of links to different articles, tools avaialble for UX
 
+## UX Elements
+
+* Panels
+* Popups
+* Pushbutton
+* Scroll Bar
+
 ## Terms
 
 * Mockup
@@ -48,6 +55,56 @@ This repo contains a curated list of links to different articles, tools avaialbl
 * Fluid Layout
 * Font readability
 * Gestalt Principles
+* Grid System
+* Color Wheel
+* Human Factors Engineering (HFI)
+* Human Computer Interaction (HCI)
+* Internationalization
+* Localization
+* Accessibility
+* Iterative Testing
+* Learnability
+* Liquid Design
+* Luminance
+* Monochrome
+* Navigation Design
+* Page Density
+* Negative Space
+* Parellel Design
+* Physical consistency
+* Rapid Prototyping
+* Readability
+* Rollover
+* Serif
+* Similarity
+* Static Menu
+* Tab
+* Tagline
+* Task Analysis
+* User Interface
+* Graphical User Interface
+* Waterfall Model
+* White Space
+* WYSIWYG
+* Within page links
+* 80/20 rule
+* Adaptive Web Desing (AWD)
+* Agile
+* Anchoring
+* Aesthetic-Usability Effect
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
 
 ## Articles
 
