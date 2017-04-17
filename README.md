@@ -2,7 +2,7 @@
 
 This repo contains a curated list of links to different articles, tools avaialble for UX
 
-[UX Elements](#UX%20Elements)
+[UX Elements](#ux-elements)
 
 ## UX Elements
 
