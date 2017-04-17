@@ -2,7 +2,13 @@
 
 This repo contains a curated list of links to different articles, tools avaialble for UX
 
-[UX Elements](#ux-elements)
+* [UX Elements](#ux-elements)
+* [Terms](#terms)
+* [Courses](#courses)
+* [Articles](#articles)
+* [Tools](#tools)
+  - [Prototyping Tools](#prototyping-tools)
+* [References](#references)
 
 ## UX Elements
 
