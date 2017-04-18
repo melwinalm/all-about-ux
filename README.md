@@ -7,6 +7,7 @@ This repo contains a curated list of links to different articles, tools avaialbl
 * [UX Elements](#ux-elements)
 * [Terms](#terms)
 * [Courses](#courses)
+* [Blogs](#blogs)
 * [Articles](#articles)
 * [Tools](#tools)
   - [Prototyping Tools](#prototyping-tools)
@@ -31,6 +32,8 @@ Yet to be done
 
 
 ## Courses
+
+## Blogs
 
 ## Articles
 
