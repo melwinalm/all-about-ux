@@ -19,19 +19,22 @@ Yet to be done
 
 ## Terms
 
-#### Accessibility
+### Accessibility
 
 Design of products, devices, services or environments for people who experience disabilities. - *Wiki*
 
-#### Adaptive Web Design (AWD)
+### Adaptive Web Design (AWD)
 
 Creating multiple versions of webpages to better fit user's device. Adaptive Design will serve different version of site to different devices based on the hardware of the device.
 
-#### Hook Model
+### Hook Model
 
 Hook model talks about steps involved in making a habit forming product. It involves a four step process to improve customer behaviour and make engaging products. Read the book **Hooked** by Nir Eyal. 
 
-#### Internationalization
+### Internationalization
+
+Process of creating products that can be easily adapted to various languages and regions.
+
 #### Lean UX
 #### Localization
 #### Mobile First Design
