@@ -21,7 +21,7 @@ Yet to be done
 
 ### Accessibility
 
-Design of products, devices, services or environments for people who experience disabilities. - *Wiki*
+Design of products, devices, services or environments for people who experience disabilities. - *Wikipedia*
 
 ### Adaptive Web Design (AWD)
 
@@ -37,6 +37,9 @@ Process of creating products that can be easily adapted to various languages and
 
 #### Lean UX
 #### Localization
+
+The process of translating a product into different languages or adapting a product for a specific country or region. - *Wikipedia*
+
 #### Mobile First Design
 #### Paper Prototype
 #### Responsive Design
