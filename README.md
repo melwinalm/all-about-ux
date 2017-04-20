@@ -21,10 +21,12 @@ Yet to be done
 
 #### Accessibility
 
-Design of products, devices, services or environments for people who experience disabilities. - Wiki
-Read more here - [https://www.w3.org/standards/webdesign/accessibility](https://www.w3.org/standards/webdesign/accessibility)
+Design of products, devices, services or environments for people who experience disabilities. - *Wiki*
 
 #### Adaptive Web Design (AWD)
+
+Creating multiple versions of webpages to better fit user's device. Adaptive Design will serve different version of site to different devices based on the hardware of the device.
+
 #### Hook Model
 #### Internationalization
 #### Lean UX
