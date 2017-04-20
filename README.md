@@ -20,6 +20,10 @@ Yet to be done
 ## Terms
 
 #### Accessibility
+
+Design of products, devices, services or environments for people who experience disabilities. - Wiki
+Read more here - [https://www.w3.org/standards/webdesign/accessibility](https://www.w3.org/standards/webdesign/accessibility)
+
 #### Adaptive Web Design (AWD)
 #### Hook Model
 #### Internationalization
