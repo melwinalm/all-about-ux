@@ -28,6 +28,9 @@ Design of products, devices, services or environments for people who experience 
 Creating multiple versions of webpages to better fit user's device. Adaptive Design will serve different version of site to different devices based on the hardware of the device.
 
 #### Hook Model
+
+Hook model talks about steps involved in making a habit forming product. It involves a four step process to improve customer behaviour and make engaging products. Read the book **Hooked** by Nir Eyal. 
+
 #### Internationalization
 #### Lean UX
 #### Localization
