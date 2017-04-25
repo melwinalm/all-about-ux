@@ -71,19 +71,21 @@ The process of translating a product into different languages or adapting a prod
 | Invision | Web | Starts from $15/mo (Free version available) | [link](https://www.invisionapp.com/) |
 | Principle | Mac | $129 | [link](http://principleformac.com/) |
 | Axure | Mac/Windows | $29/mo | [link](https://www.axure.com/) |
-|  |  |  | [link]() |
-|  |  |  | [link]() |
-|  |  |  | [link]() |
-|  |  |  | [link]() |
-|  |  |  | [link]() |
-|  |  |  | [link]() |
-|  |  |  | [link]() |
-|  |  |  | [link]() |
-|  |  |  | [link]() |
-|  |  |  | [link]() |
-|  |  |  | [link]() |
-
-|  |  |  | [link]() |
+| Figma |  |  | [link]() |
+| Marvel |  |  | [link]() |
+| Flinto |  |  | [link]() |
+| UX Pin |  |  | [link]() |
+| Pop |  |  | [link]() |
+| Just in Mind |  |  | [link]() |
+| Mockplus |  |  | [link]() |
+| Mockflow |  |  | [link]() |
+| Hot Gloo |  |  | [link]() |
+| Pixate |  |  | [link]() |
+| Indigo Studio |  |  | [link]() |
+| Fluid |  |  | [link]() |
+| Moqups |  |  | [link]() |
+| Antetype |  |  | [link]() |
+| iRise |  |  | [link]() |
 
 ### References
 
