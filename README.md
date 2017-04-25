@@ -64,8 +64,8 @@ The process of translating a product into different languages or adapting a prod
 | Origami Studio | Mac | Free | [link](http://origami.design/) |
 | Webflow | Web | Starts from $12/mo | [link](https://webflow.com/) |
 | Proto.io | Web | Starts from $24/mo | [link](https://proto.io/) |
-|  |  |  | [link]() |
-|  |  |  | [link]() |
+| Framer Studio | Mac | $129/yr | [link](https://framer.com/) |
+| Vectr | Web/Mac/Windows/Linux/Chromebook | Free | [link](https://vectr.com/) |
 |  |  |  | [link]() |
 |  |  |  | [link]() |
 |  |  |  | [link]() |
