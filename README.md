@@ -70,8 +70,18 @@ The process of translating a product into different languages or adapting a prod
 | Atomic.io | Web | Starts from $19/mo (Free version available) | [link](https://atomic.io/) |
 | Invision | Web | Starts from $15/mo (Free version available) | [link](https://www.invisionapp.com/) |
 | Principle | Mac | $129 | [link](http://principleformac.com/) |
+| Axure | Mac/Windows | $29/mo | [link](https://www.axure.com/) |
 |  |  |  | [link]() |
-
+|  |  |  | [link]() |
+|  |  |  | [link]() |
+|  |  |  | [link]() |
+|  |  |  | [link]() |
+|  |  |  | [link]() |
+|  |  |  | [link]() |
+|  |  |  | [link]() |
+|  |  |  | [link]() |
+|  |  |  | [link]() |
+|  |  |  | [link]() |
 
 |  |  |  | [link]() |
 
