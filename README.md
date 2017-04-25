@@ -59,7 +59,7 @@ The process of translating a product into different languages or adapting a prod
 ### Prototyping Tools
 
 | Name        | Availability | Price | Link |
-|:------------- | ------------- | ----- |
+|:------------- | ------------- | ----- | ----- |
 | Sketch | Mac | $99 | [link](https://www.sketchapp.com/) |
 
 
