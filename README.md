@@ -76,7 +76,7 @@ The process of translating a product into different languages or adapting a prod
 | Flinto | Web, Mac | $20.mo | [link](https://www.flinto.com/) |
 | UX Pin | Web | $19/mo | [link](https://www.uxpin.com/) |
 | Just in Mind |  | Free | [link](https://www.justinmind.com/) |
-| Mockplus |  |  | [link]() |
+| Mockplus | Mac/Windows | $129/yr | [link](https://www.mockplus.com/) |
 | Mockflow |  |  | [link]() |
 | Hot Gloo |  |  | [link]() |
 | Pixate |  |  | [link]() |
