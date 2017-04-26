@@ -74,7 +74,7 @@ The process of translating a product into different languages or adapting a prod
 | Figma | Web, Windows, Mac, Linux | Starts from $12/mo (Free version available) | [link](https://www.figma.com/) |
 | Marvel | Web | $14/mo (Free version available) | [link](https://marvelapp.com/) |
 | Flinto | Web, Mac | $20.mo | [link](https://www.flinto.com/) |
-| UX Pin |  |  | [link]() |
+| UX Pin | Web | $19/mo | [link](https://www.uxpin.com/) |
 | Pop |  |  | [link]() |
 | Just in Mind |  |  | [link]() |
 | Mockplus |  |  | [link]() |
@@ -86,6 +86,7 @@ The process of translating a product into different languages or adapting a prod
 | Moqups |  |  | [link]() |
 | Antetype |  |  | [link]() |
 | iRise |  |  | [link]() |
+| Balsamiq |  |  | [link]() |
 
 ### References
 
