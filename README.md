@@ -91,7 +91,36 @@ The process of translating a product into different languages or adapting a prod
 
 | Name        | Feature | Link |
 |:------------- | ------- | ----- |
-|  |  |  |
+| UX Check |  |  |
+| Moqups |  |  |
+| UX Profiler |  |  |
+| Domflags |  |  |
+| CSS-Shack |  |  |
+| Font Playground |  |  |
+| Window Resizer |  |  |
+| What Font |  |  |
+| YSlow |  |  |
+| Web Developer |  |  |
+| Page Ruler |  |  |
+| Web Developer Checklist |  |  |
+| Devtools Autosave |  |  |
+| Instant Wireframe |  |  |
+| Colorzilla |  |  |
+| Ripple Emulator |  |  |
+| Perfect Pixel |  |  |
+| Code Cola |  |  |
+| User Agent Switches |  |  |
+| Check My Links |  |  |
+| Screen Capture |  |  |
+| Stylebot |  |  |
+| Eye Dropper |  |  |
+| Resolution Test |  |  |
+| Corporate Ipsum |  |  |
+| Responsive Web Design Tester |  |  |
+| Page Ruler |  |  |
+| Dimensions |  |  |
+| Type Wonder |  |  |
+| Pendule |  |  |
 
 ### References
 
