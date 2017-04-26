@@ -71,8 +71,8 @@ The process of translating a product into different languages or adapting a prod
 | Fluid | Web | $8.25/mo | [link](https://www.fluidui.com/) |
 | Framer Studio | Mac | $129/yr | [link](https://framer.com/) |
 | Hot Gloo | Web | $13/mo | [link](https://www.hotgloo.com/) |
-| Invision | Web | Starts from $15/mo (Free version available) | [link](https://www.invisionapp.com/) |
 | Indigo Studio | Mac/Windows | $25/mo (Free version available) | [link](https://www.infragistics.com/products/indigo-studio) |
+| Invision | Web | Starts from $15/mo (Free version available) | [link](https://www.invisionapp.com/) |
 | iRise | Mac | $29/mo | [link](https://www.irise.com/) |
 | Just in Mind |  | Free | [link](https://www.justinmind.com/) |
 | Marvel | Web | $14/mo (Free version available) | [link](https://marvelapp.com/) |
