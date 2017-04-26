@@ -73,7 +73,7 @@ The process of translating a product into different languages or adapting a prod
 | Axure | Mac/Windows | $29/mo | [link](https://www.axure.com/) |
 | Figma | Web, Windows, Mac, Linux | Starts from $12/mo (Free version available) | [link](https://www.figma.com/) |
 | Marvel | Web | $14/mo (Free version available) | [link](https://marvelapp.com/) |
-| Flinto |  |  | [link]() |
+| Flinto | Web, Mac | $20.mo | [link](https://www.flinto.com/) |
 | UX Pin |  |  | [link]() |
 | Pop |  |  | [link]() |
 | Just in Mind |  |  | [link]() |
