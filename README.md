@@ -82,9 +82,9 @@ The process of translating a product into different languages or adapting a prod
 | Indigo Studio | Mac/Windows | $25/mo (Free version available) | [link](https://www.infragistics.com/products/indigo-studio) |
 | Fluid | Web | $8.25/mo | [link](https://www.fluidui.com/) |
 | Moqups | Web | $13/mo | [link](https://moqups.com/) |
-| Antetype |  |  | [link]() |
-| iRise |  |  | [link]() |
-| Balsamiq |  |  | [link]() |
+| Antetype | Mac | $189.99 | [link](http://antetype.com/) |
+| iRise | Mac | $29/mo | [link](https://www.irise.com/) |
+| Balsamiq | We/Windows/Mac | $89 (Desktop) or $12/mo (Web) | [link](https://balsamiq.com/) |
 
 ### References
 
