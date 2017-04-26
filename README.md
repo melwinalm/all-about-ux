@@ -75,8 +75,7 @@ The process of translating a product into different languages or adapting a prod
 | Marvel | Web | $14/mo (Free version available) | [link](https://marvelapp.com/) |
 | Flinto | Web, Mac | $20.mo | [link](https://www.flinto.com/) |
 | UX Pin | Web | $19/mo | [link](https://www.uxpin.com/) |
-| Pop |  |  | [link]() |
-| Just in Mind |  |  | [link]() |
+| Just in Mind |  | Free | [link](https://www.justinmind.com/) |
 | Mockplus |  |  | [link]() |
 | Mockflow |  |  | [link]() |
 | Hot Gloo |  |  | [link]() |
