@@ -11,6 +11,7 @@ This repo contains a curated list of links to different articles, tools avaialbl
 * [Articles](#articles)
 * [Tools](#tools)
   - [Prototyping Tools](#prototyping-tools)
+  - [Chrome Extensions](#chrome-extensions)
 * [References](#references)
 
 ## UX Elements
@@ -85,6 +86,12 @@ The process of translating a product into different languages or adapting a prod
 | Antetype | Mac | $189.99 | [link](http://antetype.com/) |
 | iRise | Mac | $29/mo | [link](https://www.irise.com/) |
 | Balsamiq | We/Windows/Mac | $89 (Desktop) or $12/mo (Web) | [link](https://balsamiq.com/) |
+
+### Chrome Extensions
+
+| Name        | Feature | Link |
+|:------------- | ------- | ----- |
+|  |  |  |
 
 ### References
 
