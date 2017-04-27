@@ -102,14 +102,14 @@ The process of translating a product into different languages or adapting a prod
 | Web Developer |  | [link](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) |
 | Page Ruler |  | [link](https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn) |
 | Web Developer Checklist |  | [link](https://chrome.google.com/webstore/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp) |
-| Devtools Autosave |  | [link]() |
-| Instant Wireframe |  | [link]() |
-| Colorzilla |  | [link]() |
-| Ripple Emulator |  | [link]() |
+| DevTools Autosave |  | [link](https://chrome.google.com/webstore/detail/devtools-autosave/mlejngncgiocofkcbnnpaieapabmanfl) |
+| Instant Wireframe | View any web page as wireframe | [link](https://chrome.google.com/webstore/detail/instant-wireframe/pmpmnmbgidlnoamkpmcikaejhmeldnha) |
+| Colorzilla |  | [link](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) |
+| Ripple Emulator |  | [link](https://chrome.google.com/webstore/detail/ripple-emulator-beta/geelfhphabnejjhdalkjhgipohgpdnoc) |
 | Perfect Pixel |  | [link]() |
-| Code Cola |  | [link]() |
-| User Agent Switches |  | [link]() |
-| Check My Links |  | [link]() |
+| Code Cola |  | [link](https://chrome.google.com/webstore/detail/code-cola/lomkpheldlbkkfiifcbfifipaofnmnkn) |
+| User-Agent Switcher |  | [link](https://chrome.google.com/webstore/detail/user-agent-switcher/lkmofgnohbedopheiphabfhfjgkhfcgf) |
+| Check My Links |  | [link](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf) |
 | Screen Capture |  | [link]() |
 | Stylebot |  | [link]() |
 | Eye Dropper |  | [link]() |
