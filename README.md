@@ -92,7 +92,7 @@ The process of translating a product into different languages or adapting a prod
 | Name        | Feature | Link |
 |:------------- | ------- | ----- |
 | UX Check |  | [link](https://chrome.google.com/webstore/detail/ux-check/giekhiebdpmljgchjojblnekkcgpdobp?hl=en-US) |
-| Moqups |  | [link]() |
+| Moqups | Create wireframes and prototypes | [link](https://chrome.google.com/webstore/detail/moqups-%C2%B7-mockups-wirefram/nlfbhphohgafllkjnakmdppmmkjfbnke?hl=en) |
 | UX Profiler |  | [link]() |
 | Domflags |  | [link]() |
 | CSS-Shack |  | [link]() |
