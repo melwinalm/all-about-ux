@@ -49,6 +49,11 @@ The process of translating a product into different languages or adapting a prod
 
 ## Courses
 
+| Name | Provider | Type | Info | Price |
+|:-----|:--------:|:----:|:---- |:-----:|
+|  |  |  |  |  |  |  |
+
+
 ## Blogs
 
 ## Articles
