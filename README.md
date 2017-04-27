@@ -93,11 +93,11 @@ The process of translating a product into different languages or adapting a prod
 |:------------- | ------- | ----- |
 | UX Check |  | [link](https://chrome.google.com/webstore/detail/ux-check/giekhiebdpmljgchjojblnekkcgpdobp?hl=en-US) |
 | Moqups | Create wireframes and prototypes | [link](https://chrome.google.com/webstore/detail/moqups-%C2%B7-mockups-wirefram/nlfbhphohgafllkjnakmdppmmkjfbnke?hl=en) |
-| UX Profiler |  | [link]() |
-| Domflags |  | [link]() |
-| CSS-Shack |  | [link]() |
-| Font Playground |  | [link]() |
-| Window Resizer |  | [link]() |
+| UX Profiler |  | [link](https://chrome.google.com/webstore/detail/ux-profiler/pbggladnflcdnacpafmaahjemhnjmpjc?hl=en) |
+| Domflags |  | [link](https://chrome.google.com/webstore/detail/domflags/nindoglnpjcjoaheijieagogboabafkc?hl=en-US) |
+| CSS-Shack |  | [link](https://chrome.google.com/webstore/detail/css-shack/geiccgjkigajaicecnhdokggninehdlp?hl=en) |
+| Font Playground |  | [link](https://chrome.google.com/webstore/detail/font-playground/hdpmpnhaoddjelneingmbnhaibbmjgno?hl=en) |
+| Window Resizer | Resize browser windows to emulate various screen resolutions | [link](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en) |
 | What Font |  | [link]() |
 | YSlow |  | [link]() |
 | Web Developer |  | [link]() |
