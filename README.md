@@ -91,36 +91,36 @@ The process of translating a product into different languages or adapting a prod
 
 | Name        | Feature | Link |
 |:------------- | ------- | ----- |
-| UX Check |  |  |
-| Moqups |  |  |
-| UX Profiler |  |  |
-| Domflags |  |  |
-| CSS-Shack |  |  |
-| Font Playground |  |  |
-| Window Resizer |  |  |
-| What Font |  |  |
-| YSlow |  |  |
-| Web Developer |  |  |
-| Page Ruler |  |  |
-| Web Developer Checklist |  |  |
-| Devtools Autosave |  |  |
-| Instant Wireframe |  |  |
-| Colorzilla |  |  |
-| Ripple Emulator |  |  |
-| Perfect Pixel |  |  |
-| Code Cola |  |  |
-| User Agent Switches |  |  |
-| Check My Links |  |  |
-| Screen Capture |  |  |
-| Stylebot |  |  |
-| Eye Dropper |  |  |
-| Resolution Test |  |  |
-| Corporate Ipsum |  |  |
-| Responsive Web Design Tester |  |  |
-| Page Ruler |  |  |
-| Dimensions |  |  |
-| Type Wonder |  |  |
-| Pendule |  |  |
+| UX Check |  | [link](https://chrome.google.com/webstore/detail/ux-check/giekhiebdpmljgchjojblnekkcgpdobp?hl=en-US) |
+| Moqups |  | [link]() |
+| UX Profiler |  | [link]() |
+| Domflags |  | [link]() |
+| CSS-Shack |  | [link]() |
+| Font Playground |  | [link]() |
+| Window Resizer |  | [link]() |
+| What Font |  | [link]() |
+| YSlow |  | [link]() |
+| Web Developer |  | [link]() |
+| Page Ruler |  | [link]() |
+| Web Developer Checklist |  | [link]() |
+| Devtools Autosave |  | [link]() |
+| Instant Wireframe |  | [link]() |
+| Colorzilla |  | [link]() |
+| Ripple Emulator |  | [link]() |
+| Perfect Pixel |  | [link]() |
+| Code Cola |  | [link]() |
+| User Agent Switches |  | [link]() |
+| Check My Links |  | [link]() |
+| Screen Capture |  | [link]() |
+| Stylebot |  | [link]() |
+| Eye Dropper |  | [link]() |
+| Resolution Test |  | [link]() |
+| Corporate Ipsum |  | [link]() |
+| Responsive Web Design Tester |  | [link]() |
+| Page Ruler |  | [link]() |
+| Dimensions |  | [link]() |
+| Type Wonder |  | [link]() |
+| Pendule |  | [link]() |
 
 ### References
 
