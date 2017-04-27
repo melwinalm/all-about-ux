@@ -98,11 +98,10 @@ The process of translating a product into different languages or adapting a prod
 | CSS-Shack |  | [link](https://chrome.google.com/webstore/detail/css-shack/geiccgjkigajaicecnhdokggninehdlp?hl=en) |
 | Font Playground |  | [link](https://chrome.google.com/webstore/detail/font-playground/hdpmpnhaoddjelneingmbnhaibbmjgno?hl=en) |
 | Window Resizer | Resize browser windows to emulate various screen resolutions | [link](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en) |
-| What Font |  | [link]() |
-| YSlow |  | [link]() |
-| Web Developer |  | [link]() |
-| Page Ruler |  | [link]() |
-| Web Developer Checklist |  | [link]() |
+| What Font | Identify fonts on a web page | [link](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en) |
+| Web Developer |  | [link](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) |
+| Page Ruler |  | [link](https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn) |
+| Web Developer Checklist |  | [link](https://chrome.google.com/webstore/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp) |
 | Devtools Autosave |  | [link]() |
 | Instant Wireframe |  | [link]() |
 | Colorzilla |  | [link]() |
