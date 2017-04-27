@@ -97,8 +97,8 @@ The process of translating a product into different languages or adapting a prod
 | Domflags |  | [link](https://chrome.google.com/webstore/detail/domflags/nindoglnpjcjoaheijieagogboabafkc?hl=en-US) |
 | CSS-Shack |  | [link](https://chrome.google.com/webstore/detail/css-shack/geiccgjkigajaicecnhdokggninehdlp?hl=en) |
 | Font Playground |  | [link](https://chrome.google.com/webstore/detail/font-playground/hdpmpnhaoddjelneingmbnhaibbmjgno?hl=en) |
-| Window Resizer | Resize browser windows to emulate various screen resolutions | [link](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en) |
-| What Font | Identify fonts on a web page | [link](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en) |
+| Window Resizer | Resize browser windows to emulate various screen resolutions | [link](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh) |
+| What Font | Identify fonts on a web page | [link](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) |
 | Web Developer |  | [link](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) |
 | Page Ruler |  | [link](https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn) |
 | Web Developer Checklist |  | [link](https://chrome.google.com/webstore/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp) |
@@ -106,20 +106,18 @@ The process of translating a product into different languages or adapting a prod
 | Instant Wireframe | View any web page as wireframe | [link](https://chrome.google.com/webstore/detail/instant-wireframe/pmpmnmbgidlnoamkpmcikaejhmeldnha) |
 | Colorzilla |  | [link](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) |
 | Ripple Emulator |  | [link](https://chrome.google.com/webstore/detail/ripple-emulator-beta/geelfhphabnejjhdalkjhgipohgpdnoc) |
-| Perfect Pixel |  | [link]() |
+| Perfect Pixel |  | [link](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi) |
 | Code Cola |  | [link](https://chrome.google.com/webstore/detail/code-cola/lomkpheldlbkkfiifcbfifipaofnmnkn) |
 | User-Agent Switcher |  | [link](https://chrome.google.com/webstore/detail/user-agent-switcher/lkmofgnohbedopheiphabfhfjgkhfcgf) |
 | Check My Links |  | [link](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf) |
-| Screen Capture |  | [link]() |
-| Stylebot |  | [link]() |
-| Eye Dropper |  | [link]() |
-| Resolution Test |  | [link]() |
-| Corporate Ipsum |  | [link]() |
-| Responsive Web Design Tester |  | [link]() |
-| Page Ruler |  | [link]() |
-| Dimensions |  | [link]() |
-| Type Wonder |  | [link]() |
-| Pendule |  | [link]() |
+| Stylebot |  | [link](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha) |
+| Eye Dropper |  | [link](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka) |
+| Resolution Test |  | [link](https://chrome.google.com/webstore/detail/resolution-test/idhfcdbheobinplaamokffboaccidbal) |
+| Corporate Ipsum |  | [link](https://chrome.google.com/webstore/detail/corporate-ipsum/lfmadckmfehehmdnmhaebniooenedcbb) |
+| Responsive Web Design Tester |  | [link](https://chrome.google.com/webstore/detail/responsive-web-design-tes/objclahbaimlfnbjdeobicmmlnbhamkg) |
+| Page Ruler |  | [link](https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn) |
+| Dimensions |  | [link](https://chrome.google.com/webstore/detail/dimensions/baocaagndhipibgklemoalmkljaimfdj) |
+| TypeWonder |  | [link](https://chrome.google.com/webstore/detail/typewonder/ohgmapelghofmbacalgamfbejaghdilh) |
 
 ### References
 
