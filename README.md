@@ -51,7 +51,7 @@ The process of translating a product into different languages or adapting a prod
 
 | Name | Provider | Type | Info | Price |
 |:-----|:--------:|:----:|:---- |:-----:|
-| Interaction Design | Coursera | Specialization | * Human Centered Design: an Introduction * Design Principles: an Introduction | $39/mo |
+| Interaction Design | Coursera | Specialization | <ul> <li>Human Centered Design: an Introduction</li><li> Design Principles: an Introduction</li></ul> | $39/mo |
 
 
 ## Blogs
