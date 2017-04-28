@@ -56,7 +56,7 @@ The process of translating a product into different languages or adapting a prod
 | Creating User Experiences: Fundamental Design Principles | Pluralsight | Course | 4+ hrs of content | [link](https://www.pluralsight.com/courses/cux-designprinciples) |
 | UX Design for Mobile Developers | Udacity | Course | Approx. 6 weeks | [link](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849) |
 | Product Design | Udacity | Course | Approx. 2 months | [link](https://www.udacity.com/course/product-design--ud509) |
-
+| Intro to the Design of Everyday Things | Udacity | Course | Approx. 2 weeks | [link](https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101) |
 
 ## Blogs
 
