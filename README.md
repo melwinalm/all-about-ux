@@ -53,6 +53,7 @@ The process of translating a product into different languages or adapting a prod
 |:-----|:--------:|:----:|:---- |:-----:|
 | Interaction Design | Coursera | Specialization | <ul> <li>Human Centered Design: an Introduction (4 weeks)</li><li> Design Principles: an Introduction (4 weeks)</li><li>Social Computing (3 weeks)</li><li>Input and Interaction (3 weeks)</li><li>User Experience: Research & Prototyping (4 weeks)</li><li>Information Design (3 weeks)</li><li>Designing, Running, and Analyzing Experiments (9 weeks)</li><li>Interaction Design: Capstone Project (10 weeks)</li></ul> | $39/mo |
 | User Experience Design | Springboard | Course | 62 hrs of content | [link](https://www.springboard.com/learning-paths/user-experience-design/) |
+| Creating User Experiences: Fundamental Design Principles | Pluralsight | Course | 4+ hrs of content | [link](https://www.pluralsight.com/courses/cux-designprinciples) |
 
 
 ## Blogs
