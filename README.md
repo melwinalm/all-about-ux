@@ -84,6 +84,7 @@ The process of translating a product into different languages or adapting a prod
 | Mockflow | Web/Windows/Mac | $14/mo | [link](https://mockflow.com/) |
 | Mockplus | Mac/Windows | $129/yr | [link](https://www.mockplus.com/) |
 | Moqups | Web | $13/mo | [link](https://moqups.com/) |
+| Notism | Web | $7.65/mo | [link](https://www.notism.io/) |
 | Origami Studio | Mac | Free | [link](http://origami.design/) |
 | Principle | Mac | $129 | [link](http://principleformac.com/) |
 | Proto.io | Web | Starts from $24/mo | [link](https://proto.io/) |
