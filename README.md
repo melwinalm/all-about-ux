@@ -51,7 +51,7 @@ The process of translating a product into different languages or adapting a prod
 
 | Name | Provider | Type | Info | Price |
 |:-----|:--------:|:----:|:---- |:-----:|
-| Interaction Design | Coursera | Specialization | <ul> <li>Human Centered Design: an Introduction</li><li> Design Principles: an Introduction</li></ul> | $39/mo |
+| Interaction Design | Coursera | Specialization | <ul> <li>Human Centered Design: an Introduction (4 weeks)</li><li> Design Principles: an Introduction (4 weeks)</li><li>Social Computing (3 weeks)</li><li>Input and Interaction (3 weeks)</li><li>User Experience: Research & Prototyping (4 weeks)</li><li>Information Design (3 weeks)</li><li>Designing, Running, and Analyzing Experiments (9 weeks)</li><li>Interaction Design: Capstone Project (10 weeks)</li></ul> | $39/mo |
 
 
 ## Blogs
