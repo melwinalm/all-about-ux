@@ -101,6 +101,7 @@ The process of translating a product into different languages or adapting a prod
 
 | Name        | Feature | Link |
 |:------------- | ------- | ----- |
+| CSS Peeper | Extract CSS and build beautiful styleguides | [link](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk) |
 | UX Check |  | [link](https://chrome.google.com/webstore/detail/ux-check/giekhiebdpmljgchjojblnekkcgpdobp?hl=en-US) |
 | Moqups | Create wireframes and prototypes | [link](https://chrome.google.com/webstore/detail/moqups-%C2%B7-mockups-wirefram/nlfbhphohgafllkjnakmdppmmkjfbnke?hl=en) |
 | UX Profiler |  | [link](https://chrome.google.com/webstore/detail/ux-profiler/pbggladnflcdnacpafmaahjemhnjmpjc?hl=en) |
