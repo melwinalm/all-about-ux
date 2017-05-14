@@ -7,6 +7,8 @@ This repo contains a curated list of links to different articles, tools avaialbl
 * [UX Elements](#ux-elements)
 * [Terms](#terms)
 * [Courses](#courses)
+* [Twitter Users](#twitter-users)
+* [Youtubers](#youtubers)
 * [Blogs](#blogs)
 * [Articles](#articles)
 * [Tools](#tools)
@@ -57,6 +59,14 @@ The process of translating a product into different languages or adapting a prod
 | UX Design for Mobile Developers | Udacity | Course | Approx. 6 weeks | [link](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849) |
 | Product Design | Udacity | Course | Approx. 2 months | [link](https://www.udacity.com/course/product-design--ud509) |
 | Intro to the Design of Everyday Things | Udacity | Course | Approx. 2 weeks | [link](https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101) |
+
+## Twitter Users
+
+
+## Youtubers
+
+
+
 
 ## Blogs
 
