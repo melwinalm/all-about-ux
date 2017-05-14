@@ -64,15 +64,15 @@ The process of translating a product into different languages or adapting a prod
 
 | Name | Username |
 |:-----|:--------:|
-| UX Magazine | [@uxmag](https://twitter.com/uxmag) |
-| Smashing Magazine | [@smashingmag](https://twitter.com/smashingmag) |
-| Design Shock | [@DesignShock](https://twitter.com/DesignShock) |
-| Creative Bloq | [@CreativeBloq](https://twitter.com/CreativeBloq) |
 | Beautiful Pixels | [@beautifulpixels](https://twitter.com/beautifulpixels) |
+| Creative Bloq | [@CreativeBloq](https://twitter.com/CreativeBloq) |
+| Designer News | [@designernewsbot](https://twitter.com/designernewsbot) |
+| Design Shock | [@DesignShock](https://twitter.com/DesignShock) |
+| Mockplus | [@Mockplus](https://twitter.com/Mockplus) |
+| Smashing Magazine | [@smashingmag](https://twitter.com/smashingmag) |
+| UX Magazine | [@uxmag](https://twitter.com/uxmag) |
 | UX Movement | [@uxmovement](https://twitter.com/uxmovement) |
 | UX Myths | [@uxmyths](https://twitter.com/uxmyths) |
-| Designer News | [@designernewsbot](https://twitter.com/designernewsbot) |
-| Mockplus | [@Mockplus](https://twitter.com/Mockplus) |
 
 ## Youtubers
 
