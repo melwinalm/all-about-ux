@@ -46,6 +46,11 @@ The process of translating a product into different languages or adapting a prod
 #### Mobile First Design
 #### Paper Prototype
 #### Responsive Design
+
+#### Sitemap
+
+Sitemap is a list of web pages of a web site. These are usually used by search engine crawlers to learnabout the website. There are many versions of sitemap. But XML sitemap is the most commonly used by search engines. Websites implement sitemaps to improve SEO (Search Engine Optimization) of a site. Sitemaps basically contain URL's to different pages of the site, thus making it easy for the web crawlers to index the site. Google introduced Sitemap Protocol (Read more about it [here](https://www.sitemaps.org/protocol.html)) which is now followed by major search engines.
+
 #### User Centered Design (UCD)
 
 
