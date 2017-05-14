@@ -65,6 +65,21 @@ The process of translating a product into different languages or adapting a prod
 | Name | Username |
 |:-----|:--------:|
 | UX Magazine | [@uxmag](https://twitter.com/uxmag) |
+| Smashing Magazine | [@smashingmag](https://twitter.com/smashingmag) |
+| Design Shock | [@DesignShock](https://twitter.com/DesignShock) |
+| Creative Bloq | [@CreativeBloq](https://twitter.com/CreativeBloq) |
+|  | [@]() |
+|  | [@]() |
+|  | [@]() |
+|  | [@]() |
+|  | [@]() |
+|  | [@]() |
+|  | [@]() |
+|  | [@]() |
+|  | [@]() |
+|  | [@]() |
+|  | [@]() |
+
 
 ## Youtubers
 
