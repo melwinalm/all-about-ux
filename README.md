@@ -8,7 +8,7 @@ This repo contains a curated list of links to different articles, tools avaialbl
 * [Terms](#terms)
 * [Courses](#courses)
 * [Twitter Users](#twitter-users)
-* [Youtubers](#youtubers)
+* [Youtube Channels](#youtube-channels)
 * [Blogs](#blogs)
 * [Articles](#articles)
 * [Tools](#tools)
@@ -74,9 +74,7 @@ The process of translating a product into different languages or adapting a prod
 | UX Movement | [@uxmovement](https://twitter.com/uxmovement) |
 | UX Myths | [@uxmyths](https://twitter.com/uxmyths) |
 
-## Youtubers
-
-
+## Youtube Channels
 
 
 ## Blogs
