@@ -68,18 +68,11 @@ The process of translating a product into different languages or adapting a prod
 | Smashing Magazine | [@smashingmag](https://twitter.com/smashingmag) |
 | Design Shock | [@DesignShock](https://twitter.com/DesignShock) |
 | Creative Bloq | [@CreativeBloq](https://twitter.com/CreativeBloq) |
-|  | [@]() |
-|  | [@]() |
-|  | [@]() |
-|  | [@]() |
-|  | [@]() |
-|  | [@]() |
-|  | [@]() |
-|  | [@]() |
-|  | [@]() |
-|  | [@]() |
-|  | [@]() |
-
+| Beautiful Pixels | [@beautifulpixels](https://twitter.com/beautifulpixels) |
+| UX Movement | [@uxmovement](https://twitter.com/uxmovement) |
+| UX Myths | [@uxmyths](https://twitter.com/uxmyths) |
+| Designer News | [@designernewsbot](https://twitter.com/designernewsbot) |
+| Mockplus | [@Mockplus](https://twitter.com/Mockplus) |
 
 ## Youtubers
 
