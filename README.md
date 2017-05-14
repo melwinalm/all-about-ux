@@ -61,8 +61,9 @@ The process of translating a product into different languages or adapting a prod
 | Intro to the Design of Everyday Things | Udacity | Course | Approx. 2 weeks | [link](https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101) |
 
 ## Twitter Users
+
 | Name | Username |
-|!----|:----:|:----:|
+|:-----|:--------:|
 | UX Magazine | [@uxmag](https://twitter.com/uxmag) |
 
 ## Youtubers
