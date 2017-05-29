@@ -56,15 +56,15 @@ Sitemap is a list of web pages of a web site. These are usually used by search e
 
 ## Courses
 
-| Name | Provider | Type | Info | Price |
-|:-----|:--------:|:----:|:---- |:-----:|
+| Name | Provider | Type | Info | Price | Link |
+|:-----|:--------:|:----:|:---- |:-----:|:----:|
 | Interaction Design | Coursera | Specialization | <ul> <li>Human Centered Design: an Introduction (4 weeks)</li><li> Design Principles: an Introduction (4 weeks)</li><li>Social Computing (3 weeks)</li><li>Input and Interaction (3 weeks)</li><li>User Experience: Research & Prototyping (4 weeks)</li><li>Information Design (3 weeks)</li><li>Designing, Running, and Analyzing Experiments (9 weeks)</li><li>Interaction Design: Capstone Project (10 weeks)</li></ul> | $39/mo |
-| User Experience Design | Springboard | Course | 62 hrs of content | [link](https://www.springboard.com/learning-paths/user-experience-design/) |
-| Creating User Experiences: Fundamental Design Principles | Pluralsight | Course | 4+ hrs of content | [link](https://www.pluralsight.com/courses/cux-designprinciples) |
-| UX Design for Mobile Developers | Udacity | Course | Approx. 6 weeks | [link](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849) |
+| User Experience Design | Springboard | Course | 62 hrs of content | Free | [link](https://www.springboard.com/learning-paths/user-experience-design/) |
+| Creating User Experiences: Fundamental Design Principles | Pluralsight | Course | 4+ hrs of content | Paid | [link](https://www.pluralsight.com/courses/cux-designprinciples) |
+| UX Design for Mobile Developers | Udacity | Course | Approx. 6 weeks | Paid | [link](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849) |
 | Product Design | Udacity | Course | Approx. 2 months | [link](https://www.udacity.com/course/product-design--ud509) |
-| Intro to the Design of Everyday Things | Udacity | Course | Approx. 2 weeks | [link](https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101) |
-| The Fundamentals of User Experience | Highbrow | Mail course | 10 days | [linl](http://gohighbrow.com/portfolio/the-fundamentals-of-user-experience/) | Free |
+| Intro to the Design of Everyday Things | Udacity | Course | Approx. 2 weeks | Free | [link](https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101) |
+| The Fundamentals of User Experience | Highbrow | Mail course | 10 days | [link](http://gohighbrow.com/portfolio/the-fundamentals-of-user-experience/) | Free |
 
 ## Twitter Users
 
