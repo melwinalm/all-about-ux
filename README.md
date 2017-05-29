@@ -58,7 +58,7 @@ Sitemap is a list of web pages of a web site. These are usually used by search e
 
 | Name | Provider | Type | Info | Price | Link |
 |:-----|:--------:|:----:|:---- |:-----:|:----:|
-| Interaction Design | Coursera | Specialization | <ul> <li>Human Centered Design: an Introduction (4 weeks)</li><li> Design Principles: an Introduction (4 weeks)</li><li>Social Computing (3 weeks)</li><li>Input and Interaction (3 weeks)</li><li>User Experience: Research & Prototyping (4 weeks)</li><li>Information Design (3 weeks)</li><li>Designing, Running, and Analyzing Experiments (9 weeks)</li><li>Interaction Design: Capstone Project (10 weeks)</li></ul> | $39/mo |
+| Interaction Design | Coursera | Specialization | <ul> <li>Human Centered Design: an Introduction (4 weeks)</li><li> Design Principles: an Introduction (4 weeks)</li><li>Social Computing (3 weeks)</li><li>Input and Interaction (3 weeks)</li><li>User Experience: Research & Prototyping (4 weeks)</li><li>Information Design (3 weeks)</li><li>Designing, Running, and Analyzing Experiments (9 weeks)</li><li>Interaction Design: Capstone Project (10 weeks)</li></ul> | $39/mo | [link](https://www.coursera.org/specializations/interaction-design) |
 | User Experience Design | Springboard | Course | 62 hrs of content | Free | [link](https://www.springboard.com/learning-paths/user-experience-design/) |
 | Creating User Experiences: Fundamental Design Principles | Pluralsight | Course | 4+ hrs of content | Paid | [link](https://www.pluralsight.com/courses/cux-designprinciples) |
 | UX Design for Mobile Developers | Udacity | Course | Approx. 6 weeks | Paid | [link](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849) |
