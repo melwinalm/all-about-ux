@@ -62,7 +62,7 @@ Sitemap is a list of web pages of a web site. These are usually used by search e
 | User Experience Design | Springboard | Course | 62 hrs of content | Free | [link](https://www.springboard.com/learning-paths/user-experience-design/) |
 | Creating User Experiences: Fundamental Design Principles | Pluralsight | Course | 4+ hrs of content | Paid | [link](https://www.pluralsight.com/courses/cux-designprinciples) |
 | UX Design for Mobile Developers | Udacity | Course | Approx. 6 weeks | Paid | [link](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849) |
-| Product Design | Udacity | Course | Approx. 2 months | [link](https://www.udacity.com/course/product-design--ud509) |
+| Product Design | Udacity | Course | Approx. 2 months | Free | [link](https://www.udacity.com/course/product-design--ud509) |
 | Intro to the Design of Everyday Things | Udacity | Course | Approx. 2 weeks | Free | [link](https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101) |
 | The Fundamentals of User Experience | Highbrow | Mail course | 10 days | [link](http://gohighbrow.com/portfolio/the-fundamentals-of-user-experience/) | Free |
 
