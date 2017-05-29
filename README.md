@@ -64,7 +64,7 @@ Sitemap is a list of web pages of a web site. These are usually used by search e
 | UX Design for Mobile Developers | Udacity | Course | Approx. 6 weeks | Paid | [link](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849) |
 | Product Design | Udacity | Course | Approx. 2 months | Free | [link](https://www.udacity.com/course/product-design--ud509) |
 | Intro to the Design of Everyday Things | Udacity | Course | Approx. 2 weeks | Free | [link](https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101) |
-| The Fundamentals of User Experience | Highbrow | Mail course | 10 days | [link](http://gohighbrow.com/portfolio/the-fundamentals-of-user-experience/) | Free |
+| The Fundamentals of User Experience | Highbrow | Mail course | 10 days | Free | [link](http://gohighbrow.com/portfolio/the-fundamentals-of-user-experience/) |
 
 ## Twitter Users
 
